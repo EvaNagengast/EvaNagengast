@@ -4,9 +4,13 @@ I love music, squirrels, art, DIY and coding and I love to get lost in all of th
 <h4>Check out my latest favourite projects:</h4>
 <ul>
   <li> <a href="https://london-music-journey.netlify.app/">A musical journey through London</a></li>
-  <li> [Pop Art Dictionary]([url](https://evas-dictionary.netlify.app/))</li></ul>
-     [Personal Portfolio](https://eva-nagengast.com/)
+    <li> <a href="https://evas-dictionary.netlify.app/">Pop Art Dictionary</a></li>
+    <li> <a href="https://eva-nagengast.com/">Personal Portfolio</a></li>
+   </ul>
 
+   <h4>I'm always happy to receive mail or share ideas. <br/> <a href="https://eva-nagengast.com/">SAY HELLO!</a> </h4>
+   
+![logo]([http://url/to/img.png](https://eva-nagengast.com/static/media/smalllogo.2417adb896f7c71b8784.png))
 
 
 <!--
