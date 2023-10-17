@@ -12,7 +12,7 @@ I love music, squirrels, art, DIY and coding and I love to get lost in all of th
    
 ![logo](https://eva-nagengast.com/static/media/smalllogo.2417adb896f7c71b8784.png)
 
-
+<img src="https://eva-nagengast.com/static/media/smalllogo.2417adb896f7c71b8784.png"  style="height:50px"
 <!--
 **EvaNagengast/EvaNagengast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
