@@ -3,7 +3,7 @@ I'm Eva!
 I love music, squirrels, art, DIY and coding and I love to get lost in all of these worlds!
 <h4>Check out my latest favourite projects:</h4>
 <ul>
-  <li> <a href="(https://london-music-journey.netlify.app/)">A musical journey through London</a></li>
+  <li> <a href="https://london-music-journey.netlify.app/">A musical journey through London</a></li>
   <li> [Pop Art Dictionary]([url](https://evas-dictionary.netlify.app/))</li></ul>
      [Personal Portfolio](https://eva-nagengast.com/)
 
