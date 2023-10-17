@@ -10,7 +10,7 @@ I love music, squirrels, art, DIY and coding and I love to get lost in all of th
 
    <h4>I'm always happy to receive mail or share ideas. <br/> <a href="https://eva-nagengast.com/">SAY HELLO!</a> </h4>
    
-![logo]([http://url/to/img.png](https://eva-nagengast.com/static/media/smalllogo.2417adb896f7c71b8784.png))
+![logo](https://eva-nagengast.com/static/media/smalllogo.2417adb896f7c71b8784.png)
 
 
 <!--
