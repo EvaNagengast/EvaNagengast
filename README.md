@@ -2,10 +2,12 @@
 I'm Eva!<br/>
 I love music, squirrels, art, DIY and coding and I love to get lost in all of these worlds!
 <h4>Check out my latest favourite projects:</h4>
-<ul>
-  <li> <a href="https://london-music-journey.netlify.app/" >A musical journey through London</a></li>
-    <li> <a href="https://evas-dictionary.netlify.app/" >Pop Art Dictionary</a></li>
-    <li> <a href="https://eva-nagengast.com/">Personal Portfolio</a></li>
+<ul> 
+  <li> <a href="https://www.janecorryauthor.com/" >Jane Corry Author Showcase</a></li>
+  <li> <a href="  https://techriserswomen.netlify.app//" >Tech Risers Women - Initiative Website</a></li>
+  <li> <a href="https://london-music-journey.netlify.app/" >A musical journey through London - Music Streaming</a></li>
+   <li> <a href="https://eva-nagengast.com/">Personal Portfolio</a></li>
+    
    </ul>
 
    <h4>I'm always happy to receive mail or share ideas. <br/> <a href="mailto:eva.nagengast.dev@gmail.com" >SAY HELLO!</a> </h4>
