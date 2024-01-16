@@ -5,8 +5,8 @@
   
   <h4>Check out my latest favourite projects:</h4>
   <ul>  
-    <li> <a href="https://techriserswomen.netlify.app/" >Tech Risers Women - Initiative Website</a></li>
-    <li> <a href="https://www.janecorryauthor.com/" >Jane Corry - Author Showcase</a></li>
+    <li> <a href="https://techriserswomen.netlify.app/" >Tech Risers Women - Initiative Website for Women in Code</a></li>
+    <li> <a href="https://www.janecorryauthor.com/" >Jane Corry - Custom Made Author Showcase</a></li>
     <li> <a href="https://www.101parttimejobs.com/" > 101 Part Time Jobs - Collaboration with Music Podcast Website</a></li>
     <li> <a href="https://eva-nagengast.com/">Personal Portfolio</a></li>
   </ul>
